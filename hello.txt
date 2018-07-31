@@ -1,2 +1,6 @@
 now...
+<<<<<<< HEAD
 next change.
+=======
+after branch changing...
+>>>>>>> return_to_hello_file
